@@ -1,13 +1,13 @@
 ---
 layout: projects
 title: Projects
-permalink: /projects/
+permalink: /ux/
 ---
 
 
   <header>
     <h2>{{ page.title }}</h2>
-    <p>Web Developer and User Experience Designer in Virginia</p>
+    <p>User Experience and User Interface Design</p>
   </header>
 
 
