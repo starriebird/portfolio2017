@@ -1,16 +1,14 @@
 ---
-layout: projects
-title: Projects
+layout: page
+title: User Experience and user Interface Design
 permalink: /ux/
 ---
 
-
-  <header>
-    <h2>{{ page.title }}</h2>
-    <p>User Experience and User Interface Design</p>
-  </header>
+<h3>University of Virginia Library Home Page / Progressive Web App
 
 
+
+<img src="../images/projects/wireframe_desktop-01.png" style="left:auto; right:auto;" />
 
 <section id="two" class="wrapper alt style2">
 						<section class="spotlight">
@@ -33,7 +31,7 @@ permalink: /ux/
 						</section>
 									<section class="spotlight">
 							<div class="image"><img src="../images/webdev.jpg" alt="" /></div><div class="content">
-								<h2>Computer Illustration & Graphic Design </h2>
+								<h2>Computer Illustration &amp; Graphic Design </h2>
 								<p>I am an expert in Adobe Creative Suite and can make vector illustrations to add an artistic and modern touch to your project.</p>
 							</div>
 						</section>
