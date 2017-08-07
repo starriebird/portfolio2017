@@ -1,7 +1,7 @@
 ---
 layout: page
 title: User Experience and user Interface Design
-permalink: /work/ux/
+permalink: /work/
 ---
 
 <h3>University of Virginia Library Home Page / Progressive Web App
