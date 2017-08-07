@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User Experience and user Interface Design
+title: Work
 permalink: /work/
 ---
 
@@ -20,7 +20,7 @@ permalink: /work/
 						<section class="spotlight">
 							<div class="image"><img src="../images/webdev.jpg" alt="" /></div><div class="content">
 								<h2>Web Development</h2>
-								<p>Polymer, Jekyll, Drupal, Google Cloud, HTML5, CSS3</p>
+								<p>Polymer, Jekyll, Drupal, Wordpress, Google Cloud, HTML5, CSS3</p>
 							</div>
 						</section>
 						<section class="spotlight">

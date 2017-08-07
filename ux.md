@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User Experience and user Interface Design
+title: UX/UI Design
 permalink: /work/ux/
 ---
 
