@@ -1,0 +1,21 @@
+- text: Home
+  url: /
+- text: About
+  url: /about/
+- text: Resume
+  url: /resume/
+- text: Work
+  url: /work/
+  subitems:
+    - text: UX/UI Design
+      url: /ux/
+      subitems:
+        - text: UVA Library
+          url: /uvalibrary/
+    - text: Web Development
+      url: /web/
+      subitems:
+        - text: OpenGrounds website
+          url: /opengrounds/
+- text: Contact
+  url: /contact/
