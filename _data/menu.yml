@@ -8,7 +8,7 @@
   url: /work/
   subitems:
     - text: UX/UI Design
-      url: /ux/
+      url: /work/ux/
       subitems:
         - text: UVA Library
           url: /uvalibrary/
@@ -17,5 +17,5 @@
       subitems:
         - text: OpenGrounds website
           url: /opengrounds/
-- text: Contact
-  url: /contact/
+- text: Writing
+  url: /writing/
