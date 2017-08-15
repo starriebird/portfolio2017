@@ -11,11 +11,11 @@
       url: /work/ux/
       subitems:
         - text: UVA Library
-          url: /uvalibrary/
+          url: /work/ux/uvalibrary/
     - text: Web Development
-      url: /web/
+      url: /work/web/
       subitems:
         - text: OpenGrounds website
-          url: /opengrounds/
+          url: /work/web/opengrounds/
 - text: Writing
   url: /writing/
