@@ -4,4 +4,4 @@ title: Work
 permalink: /work/
 ---
 
-<h3>This page is under development. Please check back soon.</h3>
+<a href="work/ux/">User Experience/ User Interface Design</a>
