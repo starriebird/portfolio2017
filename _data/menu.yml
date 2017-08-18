@@ -6,16 +6,9 @@
   url: /resume/
 - text: Work
   url: /work/
-  subitems:
-    - text: UX/UI Design
-      url: /work/ux/
-      subitems:
-        - text: UVA Library
-          url: /work/ux/uvalibrary/
-    - text: Web Development
-      url: /work/web/
-      subitems:
-        - text: OpenGrounds website
-          url: /work/web/opengrounds/
+- text: Web Development
+  url: /work/web/
+- text: Multimedia and Video
+  url: /work/video/
 - text: Writing
   url: /writing/
