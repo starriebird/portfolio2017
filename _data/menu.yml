@@ -8,9 +8,6 @@
   url: /work/
 - text: Web Development
   url: /work/web/
-      subitems:
-        - text: OpenGrounds website
-          url: /work/web/opengrounds/
 - text: Multimedia and Video
   url: /work/video/
 - text: Writing
