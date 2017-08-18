@@ -6,9 +6,7 @@
   url: /resume/
 - text: Work
   url: /work/
-- text: Web Development
-  url: /work/web/
-- text: Multimedia and Video
-  url: /work/video/
 - text: Writing
   url: /writing/
+- text: Contact
+  url: /contact/
