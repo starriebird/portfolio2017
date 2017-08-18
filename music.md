@@ -14,7 +14,7 @@ In 2004 my husband and I founded an electronic music record label. We have over 
 
 Since the 1990s I have DJed electronic music and became passionate about a particular genre from Detroit called "Techno Bass." I had the idea of creating an online music magazine promoting it. We are now running on our thirteenth year.
 
-<a href="http://www.technobass.net"><TechnoBass.net</a>
+<a href="http://www.technobass.net">TechnoBass.net</a>
 
 <h3>DJ Mixes and Radio</h3>
 
