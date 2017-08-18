@@ -18,6 +18,6 @@ Since the 1990s I have DJed electronic music and became passionate about a parti
 
 <h3>Mixcloud</h3>
 
-I have DJed at music festivals 
+I have DJed at events and music festivals in Philadelphia, Washington D.C., Charlottesville as well as radio stations local and abroad. I hosted a long running radio show on WTJU at the University of Virginia, The Binary Mix Sessions  which moved to prestigious internet radio stations such as Breaks.fm , Global Funk Radio and have played guest spots on Electroinvasion (Frequency Radio) and Bass Agenda.
 
 <a href="https://www.mixcloud.com/selektastjarna/">Selekta Stjarna</a>
