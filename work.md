@@ -4,9 +4,12 @@ title: Work
 permalink: /work/
 ---
 
-<a href="ux/">User Experience/ User Interface Design</a>
 
 <a href="web/">Web Development</a>
+
+<a href="ux/">User Experience/ User Interface Design</a>
+
+<a href="presentations/">Presentations</a>
 
 <a href="video/">Multimedia and Video Production</a>
 
