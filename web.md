@@ -40,6 +40,8 @@ Visit the websites:
 
 <h3>TechnoBass.net</h3>
 
+TechnoBass.net is a online music magazine publication that I concieved and developed since 2003. Its most recent incarnation uses Drupal CMS and is hosted on Pantheon.
+
 Visit the website: <a href="http://www.technobass.net">TechnoBass.net</a>
 
 
