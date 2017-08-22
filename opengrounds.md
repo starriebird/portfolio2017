@@ -17,6 +17,5 @@ I have extensive experience creating creative briefs, userflows, sitemaps, wiref
 <a href="https://invis.io/V6D17IDRE#/248600168_Homepage-Mobile_Menu">Mobile Interactive Prototype</a>
 
 
-
 <img src="../../../images/projects/wireframe_desktop-01.png" style="left:auto; right:auto; width:100%; height:auto;" />
 
