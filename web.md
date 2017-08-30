@@ -45,5 +45,16 @@ TechnoBass.net is a online music magazine publication that I concieved and devel
 Visit the website: <a href="http://www.technobass.net">TechnoBass.net</a>
 
 
+<h3>WillowTree Apps Test Project (Built with Wordpress)</h3>
+
+In January 2016 I interviewed with WillowTree Apps, one of the top three mobile app development companies in the world. I made it to the third and final round of the interview process, and while I ultimately turned down the job offer for a Web Developer position in charge of building and managing their main marketng website, I enjoyed the test project challenge they asked me to complete, which ultimately earned me the offer.
+
+"Every WT job candidate that ends up with an offer does a test project of a similar scale. It's scope is meant to be pretty well contained - we don't want you spending more than ~8 hours on it. The end result should be something you'll feel comfortable reviewing with a subset of the WT dev and marketing teams.
+
+For this test project, we'd like you to create a child theme of either of these standard WordPress themes: Twenty Fourteen or Twenty Fifteen. Using data from ~3-4 projects in the WillowTree portfolio (http://willowtreeapps.com/apps/), modify your child theme to include a basic portfolio. We are interested more in the way the portfolio is built than in the way it looks, so we don't stipulate that you extensively modify the parent theme's look and feel. If you want to show off your CSS skills, however, do feel free. The portfolio may - but is not required - to use a custom taxonomy (for example, to setup the project type or industry) or custom post type. Each portfolio project should have a detail view featuring at least one image, the project's "challenge", and the project's "solution"."
+
+<a href="http://www.starriefernandez.com/willowtree">View the WillowTree Apps "Test Project"</a>
+
+
 
 
