@@ -6,6 +6,24 @@ permalink: /resume/
 
 
 <h4>Web Developer 3<br />
+Advancement Communications, University of Virginia</h4>
+
+<p>December 2017 — Present</p>
+
+<p>Manage, perform user centered design, develop and maintain websites and mobile applications . I design and develop responsive, accessible websites built with Drupal, Wordpress, HTML5, CSS3 and JavaScript.</p>
+
+
+<h4>Lead Organizer and Women TechMakers Lead<br />
+Google Developer Group - Central Virginia</h4>
+Janurary 2015 — Present
+
+Work with ongoing support 
+from Google to provide technical 
+training to UVA Faculty/Staff/Students on emerging Google 
+technologies.
+
+
+<h4>Web Developer 3<br />
 University of Virginia Library</h4>
 
 <p>March 2011 — Present</p>
