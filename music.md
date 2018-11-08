@@ -4,11 +4,13 @@ title: DJ Mixes and Electronic Music Promotion
 permalink: /work/music/
 ---
 
-<h3>Fundamental Bass Intelligence</h3>
+<h3>Jackal and Hyde Music</h3>
 
-In 2004 my husband and I founded an electronic music record label. We have over 10 releases and are world renowned, with artisis from multiple countries around the world from Belarus to the U.K., to Catalonia, to Belgium.
+I am the webmaster for the tear out electro-core band Jackal and Hyde. 
 
-<a href="http://fundamentalbassintelligence.com/">Fundamental Bass Intelligence</a>
+"Eectro-core reloaded! Five years since their last release, Jackal & Hyde aka Scott Weiser &amp; Todd Walker re-emerge on Germany’s legendary Dominance Electricity label. This duo is responsible for some of the most head strong electro-core bass bangers in the 00s such as Dark Star, Go Bang, Beyond and Sound of Underground. Besides their original work, Jackal & Hyde's sound has been requested for multiple remix productions including Rabbit in the Moon, Kid Rock, Limp Bizkit, Love & Rockets and Genitorturers among others. With their latest offering entitled ‘Bad Robot’ (Dominance Electricity), they continue their mission to create the perfect blend of relentless club power and futuristic darkness. Jackal and Hyde live shows are eclectic full frontal sonic assaults which appeal to a wide variety of fans from EDM club kids, ravers and break dancers, to goths, gravers and industrial heads alike. For the last decade they have played shows with a wide variety of groups from The Prodigy, Bassnectar and Stanton Warriors to Rabbit in the Moon, Combichrist and Krewella at venues all across the United States and abroad. Always be prepared for an Earth shaking set from these masters of tear out electro."
+
+<a href="https://jackalandhydemusic.com/">Jackal and Hyde Music</a>
 
 <h3>TechnoBass.net</h3>
 
