@@ -10,25 +10,23 @@ Advancement Communications, University of Virginia</h4>
 
 <p>December 2017 — Present</p>
 
-<p>Manage, perform user centered design, develop and maintain websites and mobile applications . I design and develop responsive, accessible websites built with Drupal, Wordpress, HTML5, CSS3 and JavaScript.</p>
+<p>Manage, perform user centered design, develop and maintain websites and mobile applications . I design and develop responsive, accessible websites built with Drupal, Pantheon and Terminus CLI, CircleCI, Git, Ruby On Rails, Unix, HTML5, CSS3 and JavaScript.</p>
 
 
 <h4>Lead Organizer and Women TechMakers Lead<br />
 Google Developer Group - Central Virginia</h4>
 Janurary 2015 — Present
 
-Work with ongoing support 
-from Google to provide technical 
-training to UVA Faculty/Staff/Students on emerging Google 
-technologies.
+Work with ongoing support from Google to provide technical training to UVA Faculty/Staff/Students on emerging Google technologies.
 
 
 <h4>Web Developer 3<br />
 University of Virginia Library</h4>
 
-<p>March 2011 — Present</p>
+<p>March 2011 — December 2017</p>
 
-<p>Manage, perform user centered design, develop and maintain various UVA Library websites, mobile applications and digital signage. I design and develop responsive, accessible websites built with Drupal, Wordpress, HTML5, CSS3 and JavaScript.</p>
+<p>I worked as a UX Designer and Web Developer for the UX Team. I served as a liason for the UX research arm of our team to translate user research into personas, wireframes, mock-ups and interactive prototypes to be tested on users and refined through a user led design  process. I collaborated with the technical arm of our team to further develop and design in an agile environment while continuing to work with the UX researchers to test and iterate before they are pushed to production. I built websites using Wordpress and Jekyll, Git, Ruby On Rails, HTML, CSS & JavaScript.
+</p>
 
 
 <h4>Lead Organizer and Women TechMakers Lead<br />
