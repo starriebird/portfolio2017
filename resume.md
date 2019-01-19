@@ -29,16 +29,6 @@ University of Virginia Library</h4>
 </p>
 
 
-<h4>Lead Organizer and Women TechMakers Lead<br />
-Google Developer Group - Central Virginia</h4>
-Janurary 2015 — Present
-
-Work with ongoing support 
-from Google to provide technical 
-training to UVA Faculty/Staff/Students on emerging Google 
-technologies.
-
-
 <h4>Web Developer 2<br />
 Web Communications, University of Virginia</h4>
 
@@ -97,6 +87,16 @@ The Art Institute of Philadelphia</h4>
 <li>Pantheon & Acquia Hosting</li>
 </ul>
 
+<h3>Certifications</h3>
+
+<ul>
+<li>January 2014 - User Experience Design - Career Foundry</li>
+
+<li>December 2009 - PHP - Piedmont Virginia Community College</li>
+
+</ul>
+
+
 
 <h3>Awards & Recognition</h3>
 
@@ -105,4 +105,9 @@ The Art Institute of Philadelphia</h4>
 <h3>Software & Languages</h3>
 
 <p>Drupal, Wordpress, Jekyll, Adobe Creative Suite, HTML 5, CSS 3, SASS, JavaScript, PHP, Unix, AppsScript, QuestionPro, Git, Unix</p>
+
+
+<h3>Speaker</h3>
+
+<p>edUi, C-Ville Mini Maker Faire, U.Va. Library, Jefferson-Madison Regional Library, Teaching with Technology Fair, U.Va. Library 2014-1015.</p>
 
