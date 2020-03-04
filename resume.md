@@ -23,7 +23,7 @@ Advancement Communications, University of Virginia</h4>
 Google Developer Group - Central Virginia</h4>
 Janurary 2015 — Present
 
-Work with ongoing support from Google to provide technical training to UVA Faculty/Staff/Students on emerging Google technologies.
+Work with ongoing support from Google to provide technical training to UVA Faculty/Staff/Students as well as the local greater community on emerging Google technologies.
 
 
 <h4>Web Developer 3 & UX/UI Designer<br />
@@ -31,7 +31,7 @@ University of Virginia Library</h4>
 
 <p>March 2011 — December 2017</p>
 
-<p>I worked as a UX Designer and Web Developer for the UX Team and Library Communicatons. I served as a liason for the UX research arm of our team to translate user research into personas, wireframes, mock-ups and interactive prototypes to be tested on users and refined through a user led design  process. I collaborated with the technical arm of our team to further develop and design in an agile environment while continuing to work with the UX researchers to test and iterate before they are pushed to production. I built websites using Wordpress and Jekyll, Git, Ruby On Rails, HTML, CSS & JavaScript. I also managed, designed, developed and maintain various UVA Library websites built with Wordpress, Jekyll, Drupal 8, HTML5, CSS3, JavaScript using Headless CMS architecture.
+<p>I worked as a UX Designer and Web Developer for the UX Team and Library Communicatons. I served as a liason for the UX research arm of our team to translate user research into personas, wireframes, mock-ups and interactive prototypes to be tested on users and refined through a user led design  process. I collaborated with the technical arm of our team to further develop and design in an agile environment while continuing to work with the UX researchers to test and iterate web applications before they are pushed to production. I built websites using Wordpress and Jekyll, Git, Ruby On Rails, HTML, CSS & JavaScript. I also managed, designed, developed and maintain various UVA Library websites built with Wordpress, Jekyll, Drupal 8, HTML5, CSS3, JavaScript using Headless CMS architecture.
 </p>
 
 
