@@ -7,9 +7,9 @@ permalink: /work/web/
 
 <h3>Frank Batten School of Leadership & Public Policy, University of Virginia</h3>
 
-I worked with a software engineer to implement preliminary designs made by a freelance designer to build a new website in Drupal. I modified the designs to be more user friendly by creating a sitemap, worked with the Program Manager to rewrite site content, built the front end and wrote 700 lines of CSS to implement OpenGrounds branding from their style guide.
+Since March 2019 I served on committee meetings with internal stakeholders and vendors to help determine requirements, give feedback on design, help with process, search engine optimization and general guidance on development. I helped with the launch of the website and currently manage both training of web editors, content and design updates, further development, and manage external vendors for further custom development.
 
-Visit the website: <a href="http://opengrounds.virginia.edu">OpenGrounds, University of Virginia</a>
+Visit the website: <a href="http://batten.virginia.edu">Frank Batten School of Leadership and Public Policy, UVA</a>
 
 <h3>OpenGrounds, University of Virginia</h3>
 
