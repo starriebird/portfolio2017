@@ -4,6 +4,12 @@ title: Resume
 permalink: /resume/
 ---
 
+<h4>Assistant Director Web Design and Development<br />
+Frank Batten School of Leadership and Public Policy, University of Virginia</h4>
+
+<p>March 2019 — Present</p>
+
+<p>I report to the Director of Information Technology and play a critical role as technical developer & design lead with the Director of Communication and entire communications team. I work with Batten School leadership, marketers, analysts, admins, writers, video producers, and photographers to create a dynamic rich experience for visitors of our websites. This role is responsible for innovative and strategic use of web platforms to showcase rich media and creative content of the Batten School. I partner with stakeholders throughout the School to identify goals, set measurable objectives, gather requirements and implement the vision into digital reality. I play a role in leveraging the School's holistic digital footprint within the context of Batten's overall marketing and communications positioning strategy, including paid digital advertising, social media and email communications.</p>
 
 <h4>Web Developer 3<br />
 Advancement Communications, University of Virginia</h4>
@@ -25,7 +31,7 @@ University of Virginia Library</h4>
 
 <p>March 2011 — December 2017</p>
 
-<p>I worked as a UX Designer and Web Developer for the UX Team and Library Communicatons. I served as a liason for the UX research arm of our team to translate user research into personas, wireframes, mock-ups and interactive prototypes to be tested on users and refined through a user led design  process. I collaborated with the technical arm of our team to further develop and design in an agile environment while continuing to work with the UX researchers to test and iterate before they are pushed to production. I built websites using Wordpress and Jekyll, Git, Ruby On Rails, HTML, CSS & JavaScript. I also managed, designed, developed and maintain various UVA Library websites built with Wordpress, Jekyll, Drupal 8, HTML5, CSS3, JavaScript using Headless CMS architecture. 
+<p>I worked as a UX Designer and Web Developer for the UX Team and Library Communicatons. I served as a liason for the UX research arm of our team to translate user research into personas, wireframes, mock-ups and interactive prototypes to be tested on users and refined through a user led design  process. I collaborated with the technical arm of our team to further develop and design in an agile environment while continuing to work with the UX researchers to test and iterate before they are pushed to production. I built websites using Wordpress and Jekyll, Git, Ruby On Rails, HTML, CSS & JavaScript. I also managed, designed, developed and maintain various UVA Library websites built with Wordpress, Jekyll, Drupal 8, HTML5, CSS3, JavaScript using Headless CMS architecture.
 </p>
 
 
@@ -42,7 +48,7 @@ College & Graduate School of Arts & Sciences, University of Virginia</h4>
 <p><i>March 2008 — July 2010 </i></p>
 
 <p>Managed, designed, developed and maintained the main College and Graduate School of Arts &amp;
-Sciences website, Campaign for the College fundraising website, and various A&S department 
+Sciences website, Campaign for the College fundraising website, and various A&S department
 websites with HTML, CSS, JavaScript, and PHP. I practiced user experience design processes, user testing, and user interface design. I also maintained a Wordpress blog for the Dean.</p>
 
 <h4>Entrepreneur &amp;
@@ -70,10 +76,10 @@ Web Developer, Equinox Multimedia</h4>
 <h3>Education</h3>
 
 
-<h4>Bachelor of Fine Arts - Multimedia and Web Design, 
+<h4>Bachelor of Fine Arts - Multimedia and Web Design,
 The Art Institute of Washington</h4>
 
-<h4>Associate of Specialized Technology - Multimedia, 
+<h4>Associate of Specialized Technology - Multimedia,
 The Art Institute of Philadelphia</h4>
 
 <h3>Key Skills</h3>
@@ -110,4 +116,3 @@ The Art Institute of Philadelphia</h4>
 <h3>Speaker</h3>
 
 <p>edUi, C-Ville Mini Maker Faire, U.Va. Library, Jefferson-Madison Regional Library, Teaching with Technology Fair, U.Va. Library 2014-1015.</p>
-
