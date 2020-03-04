@@ -5,7 +5,10 @@ permalink: /about/
 ---
 
 
-I have been building websites since 1998, and have worked at University of Virginia since 2008: at the College and Graduate School of Arts & Sciences, Web Communications and currently at the University of Virginia Library. In early 2015 I founded a local Google Developer Group - GDG Central Virginia.
+I am fortunate to have been both formally educated in Web Design and Development and working in the field since the late 1990s. I have worked at mostly in the Private and Higher Education sector, mostly at the University of Virginia since 2002: at the Curry School of Education, College and Graduate School of Arts & Sciences, Web Communications, University of Virginia Library, and currently at the Frank Batten School of Leadership and Public Policy. In this environment I have taken advantage of continuous learning
+
+
+In early 2015 I founded GDG Central Virginia. This has enabled me to keep abreast of "inside" information about future trends in technology - about 5 years in the future. Through financial and logistical support from Google, I educate my local community of developers about latest best practices in development and user led design, as well as the latest technology
 
 I have always been fascinated with technology, and find it to be an endless source for creative expression, whether it be for interactive media in it's various forms, musical compositions, or multimedia installations.
 

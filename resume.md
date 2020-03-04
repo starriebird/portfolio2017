@@ -9,14 +9,14 @@ Frank Batten School of Leadership and Public Policy, University of Virginia</h4>
 
 <p>March 2019 — Present</p>
 
-<p>I report to the Director of Information Technology and play a critical role as technical developer & design lead with the Director of Communication and entire communications team. I work with Batten School leadership, marketers, analysts, admins, writers, video producers, and photographers to create a dynamic rich experience for visitors of our websites. This role is responsible for innovative and strategic use of web platforms to showcase rich media and creative content of the Batten School. I partner with stakeholders throughout the School to identify goals, set measurable objectives, gather requirements and implement the vision into digital reality. I play a role in leveraging the School's holistic digital footprint within the context of Batten's overall marketing and communications positioning strategy, including paid digital advertising, social media and email communications.</p>
+<p>I report to the Director of Information Technology and play a critical role as technical developer & design lead with the Director of Communications and entire communications team. I work with Batten School leadership, marketers, analysts, admins, writers, video producers, and photographers to create a dynamic rich experience for visitors of our websites. This role is responsible for innovative and strategic use of web platforms to showcase rich media and creative content of the Batten School. I partner with stakeholders throughout the School to identify goals, set measurable objectives, gather requirements and implement the vision into digital reality. I play a role in leveraging the School's holistic digital footprint within the context of Batten's overall marketing and communications positioning strategy, including paid digital advertising, social media and email communications.</p>
 
 <h4>Web Developer 3<br />
 Advancement Communications, University of Virginia</h4>
 
 <p>December 2017 — Present</p>
 
-<p>Led transition of technology stack from Wordpress to Drupal 8.  I develop accessible websites built with Drupal 8, Pantheon, Terminus CLI, CircleCI, Git, Ruby On Rails and Unix. I build database applications and manage the day-to-day relationship with vendors to meet our technical requirements.</p>
+<p>Led transition of technology stack from Wordpress to Drupal 8.  I developed accessible websites built with Drupal 8, Pantheon, Terminus CLI, CircleCI, Git, Ruby On Rails and Unix. I built database applications and managed the day-to-day relationship with vendors to meet our technical requirements.</p>
 
 
 <h4>Lead Organizer and Women TechMakers Lead<br />
