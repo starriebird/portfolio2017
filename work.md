@@ -13,4 +13,6 @@ permalink: /work/
 
 <a href="video/">Multimedia and Video Production</a>
 
+<a href="art/">Art Direction and Graphic Design</a>
+
 <a href="music/">DJ Mixes and Electronic Music Promotion</a>

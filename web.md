@@ -17,11 +17,11 @@ I led the use of Wordpress Multi-site to manage the main UVA Library website in 
 
 Visit the websites: 
 
-<ul><li><a href="http://library.virginia.edu">University of Virginia Library website</a></li>
-	<li><a href="http://small.library.virginia.edu">Small Special Collections Library website</a></li>
-	<li><a href="http://smallnotes.library.virginia.edu">Special Collections "Notes from Underground" Blog</a></li>
-	<li><a href="http://news.library.virginia.edu">Library News &amp; Announcements</a></li>
-	<li><a href="http://library.virginia.edu/small">Supporting the Library</a></li>
+<ul><li><a href="https://library.virginia.edu">University of Virginia Library website</a></li>
+	<li><a href="https://small.library.virginia.edu">Small Special Collections Library website</a></li>
+	<li><a href="https://smallnotes.library.virginia.edu">Special Collections "Notes from Underground" Blog</a></li>
+	<li><a href="https://news.library.virginia.edu">Library News &amp; Announcements</a></li>
+	<li><a href="https://library.virginia.edu/small">Supporting the Library</a></li>
 </ul>
 
 <h3>College and Graduate School of Arts &amp; Sciences, University of Virginia</h3>
@@ -32,10 +32,10 @@ I worked on a small team of developers to develop and maintain a large netork of
 Visit the websites:
 
 <ul>
-<li><a href="http://as.virginia.edu">College and Graduate School of Arts &amp; Sciences, University of Virginia</a></li>
-<li><a href="http://www.virginia.edu/music">Department of Music, University of Virginia</a></li>
-<li><a href="http://www.virginia.edu/french">Department of French, University of Virginia</a></li>
-<li><a href="http://campaign.artsandsciences.virginia.edu">Campaign for the College</a></li>
+<li><a href="https://as.virginia.edu">College and Graduate School of Arts &amp; Sciences, University of Virginia</a></li>
+<li><a href="https://www.virginia.edu/music">Department of Music, University of Virginia</a></li>
+<li><a href="https://www.virginia.edu/french">Department of French, University of Virginia</a></li>
+<li><a href="https://campaign.artsandsciences.virginia.edu">Campaign for the College</a></li>
 </ul>
 
 <h3>TechnoBass.net</h3>

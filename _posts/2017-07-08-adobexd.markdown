@@ -1,9 +1,11 @@
 ---
 layout: page
-title:  "Adobe XD - Not yet ready for prime time"
-date:   2017-08-17 23:18:50 -0400
+title:  "Adobe XD"
+date:   2019-06-11 23:18:50 -0400
 categories: ux
 ---
+
+<h1>Adobe XD - Drop Down Menus</h1>
 
 
 <h3>This post is in progress, please check back soon.</h3>
