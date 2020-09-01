@@ -4,6 +4,13 @@ title: Web Development
 permalink: /work/web/
 ---
 
+
+<h3>Frank Batten School of Leadership & Public Policy, University of Virginia</h3>
+
+Since March 2019 I served on committee meetings with internal stakeholders and vendors to help determine requirements, give feedback on design, help with process, search engine optimization and general guidance on development. I helped with the launch of the website and currently manage both training of web editors, make content and design updates, and manage external vendors for further custom development.
+
+Visit the website: <a href="http://batten.virginia.edu">Frank Batten School of Leadership and Public Policy, UVA</a>
+
 <h3>OpenGrounds, University of Virginia</h3>
 
 I worked with a software engineer to implement preliminary designs made by a freelance designer to build a new website in Drupal. I modified the designs to be more user friendly by creating a sitemap, worked with the Program Manager to rewrite site content, built the front end and wrote 700 lines of CSS to implement OpenGrounds branding from their style guide.
@@ -15,7 +22,7 @@ Visit the website: <a href="http://opengrounds.virginia.edu">OpenGrounds, Univer
 
 I led the use of Wordpress Multi-site to manage the main UVA Library website in addition to several smaller Library related websites and blogs. I led design and development of the following selection of sites:
 
-Visit the websites: 
+Visit the websites:
 
 <ul><li><a href="https://library.virginia.edu">University of Virginia Library website</a></li>
 	<li><a href="https://small.library.virginia.edu">Small Special Collections Library website</a></li>
@@ -54,7 +61,3 @@ In January 2016 I interviewed with WillowTree Apps, one of the top three mobile 
 For this test project, we'd like you to create a child theme of either of these standard WordPress themes: Twenty Fourteen or Twenty Fifteen. Using data from ~3-4 projects in the WillowTree portfolio (http://willowtreeapps.com/apps/), modify your child theme to include a basic portfolio. We are interested more in the way the portfolio is built than in the way it looks, so we don't stipulate that you extensively modify the parent theme's look and feel. If you want to show off your CSS skills, however, do feel free. The portfolio may - but is not required - to use a custom taxonomy (for example, to setup the project type or industry) or custom post type. Each portfolio project should have a detail view featuring at least one image, the project's "challenge", and the project's "solution"."
 
 <a href="http://www.starriefernandez.com/willowtree">View the WillowTree Apps "Test Project"</a>
-
-
-
-
