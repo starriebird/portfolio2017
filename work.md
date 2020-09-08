@@ -15,6 +15,4 @@ permalink: /work/
 
 <a href="art/">Art Direction &amp; Graphic Design</a>
 
-<a href="art/">Art Direction and Graphic Design</a>
-
 <a href="music/">DJ Mixes and Electronic Music Promotion</a>
