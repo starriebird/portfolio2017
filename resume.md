@@ -75,6 +75,7 @@ Web Developer, Equinox Multimedia</h4>
 
 <h3>Education</h3>
 
+<h4>(Expected January 2023) Master of Education - Curriculum and Instruction, Specialization in Instructional Technology, University of Virginia</h4>
 
 <h4>Bachelor of Fine Arts - Multimedia and Web Design,
 The Art Institute of Washington</h4>
@@ -96,6 +97,7 @@ The Art Institute of Philadelphia</h4>
 <h3>Certifications</h3>
 
 <ul>
+<li>Acquia Certification</li>
 <li>January 2014 - User Experience Design - Career Foundry</li>
 
 <li>December 2009 - PHP - Piedmont Virginia Community College</li>

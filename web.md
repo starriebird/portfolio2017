@@ -4,6 +4,12 @@ title: Web Development
 permalink: /work/web/
 ---
 
+<h3>Jackal and Hyde Music</h3>
+
+This is a website I designed and coded for my husband's music.
+
+Visit the website: <a href="https://jackalandhydemusic.com">Jackal and Hyde Music</a>
+
 
 <h3>Frank Batten School of Leadership & Public Policy, University of Virginia</h3>
 
