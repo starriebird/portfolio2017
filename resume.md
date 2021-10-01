@@ -60,7 +60,7 @@ Web Developer, Equinox Multimedia</h4>
 
 <h3>OTHER EXPERIENCE</h3>
 
-<h4>Software Developer &amp; Graphic Artist, Curry School of Education</h4>
+<h4>Software Developer &amp; Graphic Artist, School of Education &amp; Human Development, University of Virginia</h4>
 
 <p>2002–2003</p>
 
