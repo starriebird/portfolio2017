@@ -49,9 +49,11 @@ In 2003 I was invited to be an equal partner in an electro record label based in
 
 <h3>Jackal and Hyde Music</h3>
 
-I am the webmaster for the tear out electro-core band Jackal and Hyde.
+I am the webmaster for the tear out electro-core band Jackal and Hyde (who happens to be my husband, Scott Weiser).
 
 <a href="https://jackalandhydemusic.com/">Jackal and Hyde Music</a>
 
 
-"Eectro-core reloaded! Five years since their last release, Jackal & Hyde aka Scott Weiser &amp; Todd Walker re-emerge on Germany’s legendary Dominance Electricity label. This duo is responsible for some of the most head strong electro-core bass bangers in the 00s such as Dark Star, Go Bang, Beyond and Sound of Underground. Besides their original work, Jackal & Hyde's sound has been requested for multiple remix productions including Rabbit in the Moon, Kid Rock, Limp Bizkit, Love & Rockets and Genitorturers among others. With their latest offering entitled ‘Bad Robot’ (Dominance Electricity), they continue their mission to create the perfect blend of relentless club power and futuristic darkness. Jackal and Hyde live shows are eclectic full frontal sonic assaults which appeal to a wide variety of fans from EDM club kids, ravers and break dancers, to goths, gravers and industrial heads alike. For the last decade they have played shows with a wide variety of groups from The Prodigy, Bassnectar and Stanton Warriors to Rabbit in the Moon, Combichrist and Krewella at venues all across the United States and abroad. Always be prepared for an Earth shaking set from these masters of tear out electro."
+"Scott Weiser, (AKA Jackal and Hyde) is responsible for some of the most head strong electrocore bass-bangers such as Dark Star, Go Bang, Beyond, This is the Sound of Underground and Bad Robot. Besides his original work, Jackal & Hyde's sound has been requested for multiple remix productions including Rabbit in the Moon, Kid Rock, Limp Bizkit, Newcleus, Mindless Self Indulgence, Carl Finlow, Love & Rockets and Genitorturers among others. In 2020, he continues the mission to create the perfect blend of relentless intelligent club power along with futuristic darkness to make his brand of sci-fi-esque electro music called electrocore.
+
+Jackal and Hyde live shows are eclectic full frontal sonic assaults which appeal to a wide variety of fans from EDM club kids, ravers and break dancers, to goths, gravers and industrial heads alike. For the last decade he has played shows with a wide variety of groups from The Prodigy, Bassnectar and Stanton Warriors, to Rabbit in the Moon, Combichrist and Kraftwerk (Karl Bartos) at venues all across the United States and abroad. Always be prepared for an Earth shaking set from this master of tear out electro.""
