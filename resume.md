@@ -75,7 +75,6 @@ Web Developer, Equinox Multimedia</h4>
 
 <h3>Education</h3>
 
-<h4>(Expected January 2023) Master of Education - Curriculum and Instruction, Specialization in Instructional Technology, University of Virginia</h4>
 
 <h4>Bachelor of Fine Arts - Multimedia and Web Design,
 The Art Institute of Washington</h4>
@@ -86,12 +85,13 @@ The Art Institute of Philadelphia</h4>
 <h3>Key Skills</h3>
 
 <ul>
-<li>Drupal &amp; Wordpress</li>
+<li>Drupal 7 &amp; 8 Development</li>
+<li>Pantheon & Acquia Hosting</li>
 <li>Front End &amp; Back End Development</li>
 <li>UX/UI Design </li>
 <li>Responsive/Mobile Design</li>
 <li>Paper & Interactive Prototyping</li>
-<li>Pantheon & Acquia Hosting</li>
+<li>HTML, CSS, and JavaScript</li>
 </ul>
 
 <h3>Certifications</h3>
