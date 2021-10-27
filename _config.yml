@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Starrie Williamson Weiser
 email: starriew@gmail.com
-description: I am a User Experience Designer and Full Stack Developer in Virginia.
+description: I am a User Experience Designer and Drupal Web Developer in Virginia.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://equinoxmultimedia.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://equinoxmultimedia.co" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: starriebird
 github_username:  starriebird
 
