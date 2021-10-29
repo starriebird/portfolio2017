@@ -19,7 +19,7 @@ Advancement Communications, University of Virginia</h4>
 <p>Led transition of technology stack from Wordpress to Drupal 8.  I developed accessible websites built with Drupal 8, Pantheon, Terminus CLI, CircleCI, Git, Ruby On Rails and Unix. I built database applications and managed the day-to-day relationship with vendors to meet our technical requirements.</p>
 
 
-<h4>Lead Organizer and Women TechMakers Lead<br />
+<h4>Lead Organizer and <a href="https://www.womentechmakers.com/ambassadors/profiles/605c6b0737b30f65d9a8514a/starrie_williamson">Women TechMakers Lead</a><br />
 Google Developer Group - Central Virginia</h4>
 Janurary 2015 — Present
 
