@@ -9,17 +9,48 @@ Frank Batten School of Leadership and Public Policy, University of Virginia</h4>
 
 <p>March 2019 — Present</p>
 
-<p>I report to the Director of Information Technology and play a critical role as technical developer & design lead with the Director of Communications and entire communications team. I work with Batten School leadership, marketers, analysts, admins, writers, video producers, and photographers to create a dynamic rich experience for visitors of our websites. This role is responsible for innovative and strategic use of web platforms to showcase rich media and creative content of the Batten School. I partner with stakeholders throughout the School to identify goals, set measurable objectives, gather requirements and implement the vision into digital reality. I play a role in leveraging the School's holistic digital footprint within the context of Batten's overall marketing and communications positioning strategy, including paid digital advertising, social media and email communications.</p>
+<p>I report to the Director of Information Technology and play a critical role as technical developer & design lead with the Director of Communications and entire communications team. I manage multiple web projects create dynamic rich experience for visitors of our websites.  I partner with stakeholders throughout the School to identify goals, set measurable objectives, gather requirements and implement the vision into digital reality. from conception to completion using sitemaps, content outlines, interactive prototypes, user interface design front and back end development in Drupal 8 on the Acquia Cloud platform.</p>
+
+Technologies used:
+<ul>
+<li>Drupal 8</li>
+<li>Acquia Cloud Platform</li>
+<li>GIT</li>
+<li>Sass/CSS</li>
+<li>Drush</li>
+<li>Twig Templates</li>
+<li>Drupal 8 Theming</li>
+<li>HTML</li>
+<li>PHP</li>
+<li>JavaScript</li>
+<li>Adobe Creative Suite (Adobe Photoshop, Adobe XD, Adobe Illustrator)</li>
+</ul>
+
 
 <h4>Web Developer 3<br />
 Advancement Communications, University of Virginia</h4>
 
-<p>December 2017 — Present</p>
+<p>December 2017 — February 2018</p>
 
 <p>Led transition of technology stack from Wordpress to Drupal 8.  I developed accessible websites built with Drupal 8, Pantheon, Terminus CLI, CircleCI, Git, Ruby On Rails and Unix. I built database applications and managed the day-to-day relationship with vendors to meet our technical requirements.</p>
 
+<ul>
+<li>Drupal 8</li>
+<li>Pantheon</li>
+<li>GIT</li>
+<li>Sass/CSS</li>
+<li>Drush</li>
+<li>Twig Templates</li>
+<li>Drupal 8 Theming</li>
+<li>HTML</li>
+<li>PHP</li>
+<li>JavaScript</li>
+<li>Adobe Creative Suite (Adobe Photoshop, Adobe XD, Adobe Illustrator)</li>
+<li>Wordpress</li>
+</ul>
 
-<h4>Lead Organizer and <a href="https://www.womentechmakers.com/ambassadors/profiles/605c6b0737b30f65d9a8514a/starrie_williamson">Women TechMakers Lead</a><br />
+
+<h4>Lead Organizer and <a href="https://www.womentechmakers.com/ambassadors/profiles/605c6b0737b30f65d9a8514a/starrie_williamson">Women TechMakers Ambassador for the Mid-Atlantic Region, USA</a><br />
 Google Developer Group - Central Virginia</h4>
 Janurary 2015 — Present
 
@@ -33,6 +64,22 @@ University of Virginia Library</h4>
 
 <p>I worked as a UX Designer and Web Developer for the UX Team and Library Communications. I served as a liaison for the UX research arm of our team to translate user research into personas, wireframes, mock-ups and interactive prototypes to be tested on users and refined through a user led design  process. I collaborated with the technical arm of our team to further develop and design in an agile environment while continuing to work with the UX researchers to test and iterate web applications before they were pushed to production. I built websites using Wordpress and Jekyll, Git, Ruby On Rails, HTML, CSS & JavaScript. I also managed, designed, developed and maintain various UVA Library websites built with Wordpress, Jekyll, Drupal 8, HTML5, CSS3, JavaScript using Headless CMS architecture.
 </p>
+
+<ul>
+<li>Drupal 8</li>
+<li>Pantheon</li>
+<li>GIT</li>
+<li>Sass/CSS</li>
+<li>Drush</li>
+<li>Twig Templates</li>
+<li>Drupal 8 Theming</li>
+<li>HTML</li>
+<li>PHP</li>
+<li>JavaScript</li>
+<li>Adobe Creative Suite (Adobe Photoshop, Adobe XD, Adobe Illustrator)</li>
+<li>Wordpress</li>
+<li>Jekyll</li>
+</ul>
 
 
 <h4>Web Developer 2<br />
@@ -51,8 +98,7 @@ College & Graduate School of Arts & Sciences, University of Virginia</h4>
 Sciences website, Campaign for the College fundraising website, and various A&S department
 websites with HTML, CSS, JavaScript, and PHP. I practiced user experience design processes, user testing, and user interface design. I also maintained a Wordpress blog for the Dean.</p>
 
-<h4>Entrepreneur &amp;
-Web Developer, Equinox Multimedia</h4>
+<h4>Entrepreneur &amp; Web Developer, Equinox Multimedia</h4>
 
 <p><i>September 2003 — March 2008</i></p>    
 
