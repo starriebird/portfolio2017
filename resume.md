@@ -4,27 +4,32 @@ title: Resume
 permalink: /resume/
 ---
 
-<h4>Assistant Director Web Design and Development<br />
-Frank Batten School of Leadership and Public Policy, University of Virginia</h4>
 
-<p>March 2019 — Present</p>
+<a href="{{ site.github.url }}/images/StarrieWilliamsonresume2023.pdf" >View my resume in PDF format</a>
+
+
+<h2>Key Skills</h2>
+
+<ul>
+<li>Drupal Development (7,8 & 9)</li>
+<li>Pantheon & Acquia Hosting</li>
+<li>Front End &amp; Back End Development</li>
+<li>UX/UI Design </li>
+<li>Responsive/Mobile Design</li>
+<li>Paper & Interactive Prototyping</li>
+<li>HTML, CSS, and JavaScript</li>
+</ul>
+
+
+<h2> Work Experience</h2>
+<h3>Assistant Director Web Design and Development</h3>
+<h4>Frank Batten School of Leadership and Public Policy, University of Virginia</h4>
+
+<p><i>March 2019 — Present</i></p>
 
 <p>I report to the Director of Information Technology and play a critical role as technical developer & design lead with the Director of Communications and entire communications team. I manage multiple web projects create dynamic rich experience for visitors of our websites.  I partner with stakeholders throughout the School to identify goals, set measurable objectives, gather requirements and implement the vision into digital reality. from conception to completion using sitemaps, content outlines, interactive prototypes, user interface design front and back end development in Drupal 8 on the Acquia Cloud platform.</p>
 
-<P>Assistant Director of Web 
-Design & Development
-Frank Batten School of 
-Leadership & Public Policy
-March 2019 — Present     
-I report to the Director of 
-Information Technology and play a critical role as lead technical developer & designer for  
-the Director of Communications. 
-I manage multiple web projects and create dynamic, rich 
-experiences for users of our 
-websites. Migrated content 
-from Drupal 7 to Drupal 8 and 
-successfully upgraded Drupal 
-8 to 9 in Acquia Cloud.</p>
+<P>I wrote automated scripts to migrate content from Drupal 7 to Drupal 8 and recently successfully upgraded Drupal 8 to 9 in Acquia Cloud.</p>
 
 Technologies used:
 <ul>
@@ -42,10 +47,10 @@ Technologies used:
 </ul>
 
 
-<h4>Web Developer 3<br />
-Advancement Communications, University of Virginia</h4>
+<h3>Web Developer 3</h3>
+<h4>Advancement Communications, University of Virginia</h4>
 
-<p>December 2017 — February 2018</p>
+<p><i>December 2017 — February 2018</i></p>
 
 <p>Led transition of technology stack from Wordpress to Drupal 8.  I developed accessible websites built with Drupal 8, Pantheon, Terminus CLI, CircleCI, Git, Ruby On Rails and Unix. I built database applications and managed the day-to-day relationship with vendors to meet our technical requirements.</p>
 
@@ -65,17 +70,17 @@ Advancement Communications, University of Virginia</h4>
 </ul>
 
 
-<h4>Lead Organizer and <a href="https://www.womentechmakers.com/ambassadors/profiles/605c6b0737b30f65d9a8514a/starrie_williamson">Women TechMakers Ambassador for the Mid-Atlantic Region, USA</a><br />
-Google Developer Group - Central Virginia</h4>
-Janurary 2015 — Present
+<h3>Lead Organizer and <a href="https://www.womentechmakers.com/ambassadors/profiles/605c6b0737b30f65d9a8514a/starrie_williamson">Women TechMakers Ambassador for the Mid-Atlantic Region, USA</a></h3>
+<h4>Google Developer Group - Central Virginia</h4>
+<p><i>Janurary 2015 — Present</i></p>
 
-Work with ongoing support from Google to provide technical training to UVA Faculty/Staff/Students as well as the local greater community on emerging Google technologies.
+<p>Work with ongoing support from Google to provide technical training to UVA Faculty/Staff/Students as well as the local greater community on emerging Google technologies.</p>
 
 
-<h4>Web Developer 3 & UX/UI Designer<br />
-University of Virginia Library</h4>
+<h3>Web Developer 3 & UX/UI Designer</h3>
+<h4>University of Virginia Library</h4>
 
-<p>March 2011 — December 2017</p>
+<p><i>March 2011 — December 2017</i></p>
 
 <p>I worked as a UX Designer and Web Developer for the UX Team and Library Communications. I served as a liaison for the UX research arm of our team to translate user research into personas, wireframes, mock-ups and interactive prototypes to be tested on users and refined through a user led design  process. I collaborated with the technical arm of our team to further develop and design in an agile environment while continuing to work with the UX researchers to test and iterate web applications before they were pushed to production. I built websites using Wordpress and Jekyll, Git, Ruby On Rails, HTML, CSS & JavaScript. I also managed, designed, developed and maintain various UVA Library websites built with Wordpress, Jekyll, Drupal 8, HTML5, CSS3, JavaScript using Headless CMS architecture.
 </p>
@@ -97,15 +102,15 @@ University of Virginia Library</h4>
 </ul>
 
 
-<h4>Web Developer 2<br />
-Web Communications, University of Virginia</h4>
+<h3>Web Developer 2</h3>
+<h4>Web Communications, University of Virginia</h4>
 
 <p><i>August 2010 — March 2011</i></p>
 
 <p>Managed, designed, developed and maintained the main College and Graduate School of Arts &amp; Sciences website, Campaign for the College fundraising website, and various A&S department websites. I wrote HTML, CSS, JavaScript and PHP as well as built themes in Wordpress.</p>
 
-<h4>Web Developer 2, <br />
-College & Graduate School of Arts & Sciences, University of Virginia</h4>
+<h3>Web Developer 2</h3>
+<h4>College & Graduate School of Arts & Sciences, University of Virginia</h4>
 
 <p><i>March 2008 — July 2010 </i></p>
 
@@ -113,7 +118,7 @@ College & Graduate School of Arts & Sciences, University of Virginia</h4>
 Sciences website, Campaign for the College fundraising website, and various A&S department
 websites with HTML, CSS, JavaScript, and PHP. I practiced user experience design processes, user testing, and user interface design. I also maintained a Wordpress blog for the Dean.</p>
 
-<h4>Entrepreneur &amp; Web Developer, Equinox Multimedia</h4>
+<h3>Entrepreneur &amp; Web Developer, Equinox Multimedia</h3>
 
 <p><i>September 2003 — March 2008</i></p>    
 
@@ -134,26 +139,7 @@ websites with HTML, CSS, JavaScript, and PHP. I practiced user experience design
 <p>1998–1999</p>
 
 
-<h3>Education</h3>
 
-
-<h4>Bachelor of Fine Arts - Multimedia and Web Design,
-The Art Institute of Washington</h4>
-
-<h4>Associate of Specialized Technology - Multimedia,
-The Art Institute of Philadelphia</h4>
-
-<h3>Key Skills</h3>
-
-<ul>
-<li>Drupal 7 &amp; 8 Development</li>
-<li>Pantheon & Acquia Hosting</li>
-<li>Front End &amp; Back End Development</li>
-<li>UX/UI Design </li>
-<li>Responsive/Mobile Design</li>
-<li>Paper & Interactive Prototyping</li>
-<li>HTML, CSS, and JavaScript</li>
-</ul>
 
 <h3>Certifications</h3>
 
@@ -179,3 +165,17 @@ The Art Institute of Philadelphia</h4>
 <h3>Speaker</h3>
 
 <p>edUi, C-Ville Mini Maker Faire, U.Va. Library, Jefferson-Madison Regional Library, Teaching with Technology Fair, U.Va. Library 2014-1015.</p>
+
+
+
+<h3>Education</h3>
+
+
+<h4>Bachelor of Fine Arts - Multimedia and Web Design<h4>
+<h5>The Art Institute of Washington</h5>
+
+<br />
+<br />
+<h4>Associate of Specialized Technology - Multimedia</h4>
+<h5>The Art Institute of Philadelphia</h5>
+
