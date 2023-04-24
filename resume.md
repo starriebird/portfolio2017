@@ -11,6 +11,21 @@ Frank Batten School of Leadership and Public Policy, University of Virginia</h4>
 
 <p>I report to the Director of Information Technology and play a critical role as technical developer & design lead with the Director of Communications and entire communications team. I manage multiple web projects create dynamic rich experience for visitors of our websites.  I partner with stakeholders throughout the School to identify goals, set measurable objectives, gather requirements and implement the vision into digital reality. from conception to completion using sitemaps, content outlines, interactive prototypes, user interface design front and back end development in Drupal 8 on the Acquia Cloud platform.</p>
 
+<P>Assistant Director of Web 
+Design & Development
+Frank Batten School of 
+Leadership & Public Policy
+March 2019 — Present     
+I report to the Director of 
+Information Technology and play a critical role as lead technical developer & designer for  
+the Director of Communications. 
+I manage multiple web projects and create dynamic, rich 
+experiences for users of our 
+websites. Migrated content 
+from Drupal 7 to Drupal 8 and 
+successfully upgraded Drupal 
+8 to 9 in Acquia Cloud.</p>
+
 Technologies used:
 <ul>
 <li>Drupal 8</li>
