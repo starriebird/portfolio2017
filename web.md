@@ -9,7 +9,7 @@ permalink: /work/web/
 
 <h3>Frank Batten School of Leadership & Public Policy, University of Virginia</h3>
 
-Since March 2019 I served on committee meetings with internal stakeholders and vendors to help determine requirements, give feedback on design, help with process, search engine optimization and general guidance on development. I helped with the launch of the website and currently manage both training of web editors, make content and design updates, and manage external vendors for further custom development.
+Since March 2019 I served on committee meetings with internal stakeholders and vendors to help determine requirements, give feedback on design, help with process, search engine optimization and general guidance on development. I helped with the launch of the website and currently manage the training of web editors, content and design updates, and external vendors for further custom development.
 
 Visit the website: <a href="http://batten.virginia.edu">Frank Batten School of Leadership and Public Policy, UVA</a>
 
