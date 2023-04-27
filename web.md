@@ -8,9 +8,7 @@ permalink: /work/web/
 
 
 <div class="row">
-
-
-	<div class="4u 6u(small) 12u(xsmall)">
+<div class="4u 6u(small) 12u(xsmall)">
 	
 	<h3>Frank Batten School of Leadership & Public Policy, University of Virginia</h3>
 
@@ -38,6 +36,7 @@ Visit the websites:
 </ul>
 	
 	</div>
+
 	<div class="4u 6u(small) 12u(xsmall)">
 	
 	<h3>College and Graduate School of Arts &amp; Sciences, University of Virginia</h3>
@@ -53,7 +52,6 @@ Visit the websites:
 <li><a href="https://www.virginia.edu/french">Department of French, University of Virginia</a></li>
 <li><a href="https://campaign.artsandsciences.virginia.edu">Campaign for the College</a></li>
 </ul></div>
-</div>
 
 </div>
 
