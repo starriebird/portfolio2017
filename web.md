@@ -78,7 +78,19 @@ Visit the website: <a href="https://jackalandhydemusic.com">Jackal and Hyde Musi
 
 </div>
 
-<div class="4u 6u(small) 12u(xsmall)"></div>
-<div class="4u 6u(small) 12u(xsmall)"></div>
+<div class="4u 6u(medium) 12u(xsmall)">
+
+<img src="{{ site.github.url }}/images/blueridgemainecoons.png" class="image fit" />
+
+
+<h3>Blue Ridge Maine Coons</h3>
+
+I created a logo and website for a Maine Coon breeder in exchange for my one year old Maine Coon, Bowie!
+
+
+Visit the website: <a href="https://blueridgemainecoons.com">Blue Ridge Maine Coons</a>
+</div>
+
+<div class="4u 6u(medium) 12u(xsmall)"></div>
 
 </div>
