@@ -8,7 +8,9 @@ permalink: /work/web/
 
 
 <div class="row">
-<div class="4u 6u(small) 12u(xsmall)">
+<div class="4u 6u(medium) 12u(small)">
+
+<img src="{{ site.github.url }}/images/frankbattenschool.png" class="image fit" />
 	
 	<h3>Frank Batten School of Leadership & Public Policy, University of Virginia</h3>
 
@@ -20,7 +22,9 @@ Visit the website: <a href="http://batten.virginia.edu">Frank Batten School of L
 	</div>
 
 
-	<div class="4u 6u(small) 12u(xsmall)">
+	<div class="4u 6u(medium) 12u(small)">
+
+	<img src="{{ site.github.url }}/images/aldermanlibrary.png" class="image fit" />
 	
 	<h3>University of Virginia Library</h3>
 
@@ -37,7 +41,9 @@ Visit the websites:
 	
 	</div>
 
-	<div class="4u 6u(small) 12u(xsmall)">
+	<div class="4u 6u(medium) 12u(small)">
+
+		<img src="{{ site.github.url }}/images/artssciences_rotunda.png" class="image fit" />
 	
 	<h3>College and Graduate School of Arts &amp; Sciences, University of Virginia</h3>
 
@@ -60,8 +66,9 @@ Visit the websites:
 <div class="row">
 
 
-<div class="4u 6u(small) 12u(xsmall)">
+<div class="4u 6u(medium) 12u(small)">
 
+<img src="{{ site.github.url }}/images/jackalandhyde.png" class="image fit" />
 
 <h3>Jackal and Hyde Music</h3>
 
