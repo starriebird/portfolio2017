@@ -36,6 +36,8 @@ Technologies used:
 <li>Drupal 7, 8 & 9</li>
 <li>Wordpress</li>
 <li>Acquia Cloud Platform</li>
+<li>Amazon Web Services</li>
+<li>Visual Studio Code</li>
 <li>GIT</li>
 <li>Sass/CSS</li>
 <li>Drush</li>
