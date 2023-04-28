@@ -5,7 +5,7 @@ permalink: /work/
 ---
 
 
-<a href="web/">Web Development</a>
+<a href="web/">Web Development &amp; Accessibility</a>
 
 <a href="ux/">User Experience/ User Interface Design</a>
 
