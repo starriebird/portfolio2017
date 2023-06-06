@@ -1,11 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "../../JackalandHyde2021"
-		},
-		{
-			"path": ".."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": ".."
+        }
+    ]
 }
