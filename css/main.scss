@@ -125,6 +125,7 @@ $baseurl: '{{ site.github.url }}images';
 	h2 {
 		font-size: 1.35em;
 		line-height: 1.75em;
+		color:#000;
 
 		@include breakpoint(small) {
 			font-size: 1.1em;
@@ -231,6 +232,10 @@ $baseurl: '{{ site.github.url }}images';
 	}
 
 	header {
+
+		h1{
+			color: _palette(fg-light);
+		}
 		p {
 			color: _palette(fg-light);
 			position: relative;
@@ -258,6 +263,7 @@ $baseurl: '{{ site.github.url }}images';
 				display: inline-block;
 				padding-bottom: 1em;
 				position: relative;
+				color: #000;
 
 				&:after {
 					content: '';
@@ -266,7 +272,8 @@ $baseurl: '{{ site.github.url }}images';
 				}
 			}
 
-			p {
+
+			p, h2 {
 				color: _palette(fg);
 				top: 0;
 			}
@@ -505,6 +512,7 @@ $baseurl: '{{ site.github.url }}images';
 
 		&.style1 {
 			color: _palette(accent2, bg);
+
 		}
 
 		&.style2 {
@@ -512,7 +520,7 @@ $baseurl: '{{ site.github.url }}images';
 		}
 
 		&.style3 {
-			color: _palette(accent4, bg);
+			color: _palette(accent3, bg);
 		}
 	}
 
@@ -871,7 +879,7 @@ $baseurl: '{{ site.github.url }}images';
 		}
 
 		&.special {
-			background-color: _palette(accent1, bg);
+			background-color: _palette(accent1, button);
 			box-shadow: none !important;
 			color: _palette(accent1, fg-bold) !important;
 
@@ -977,6 +985,10 @@ $baseurl: '{{ site.github.url }}images';
 		@include vendor('align-items', 'center');
 		@include vendor('display', 'flex');
 
+		p{
+			color:#fff;
+		}
+
 		.image {
 			@include vendor('order', '1');
 			border-radius: 0;
@@ -1071,9 +1083,18 @@ $baseurl: '{{ site.github.url }}images';
 				background: _palette($p, border-bg);
 			}
 
+			.special .major h2{
+				color:#000;
+			}
+
 		// Section/Article
 
 			header {
+
+				h1{
+					color:#fff;
+
+				}
 				p {
 					color: _palette($p, fg-light);
 				}
@@ -1081,6 +1102,7 @@ $baseurl: '{{ site.github.url }}images';
 				&.major {
 					h2, h3, h4, h5, h6 {
 						border-color: _palette($p, border);
+						color: #000;
 					}
 
 					p {
@@ -1238,6 +1260,7 @@ $baseurl: '{{ site.github.url }}images';
 		> .inner {
 			width: 60em;
 			margin: 0 auto;
+
 
 			@include breakpoint(large) {
 				width: 90%;
@@ -1410,6 +1433,7 @@ $baseurl: '{{ site.github.url }}images';
 				display: block;
 				height: inherit;
 				line-height: inherit;
+				color:#fff;
 
 				@include breakpoint(small) {
 					font-size: 0.8em;
@@ -1446,7 +1470,7 @@ $baseurl: '{{ site.github.url }}images';
 						&.menuToggle {
 							outline: 0;
 							position: relative;
-
+							color:#fff;
 							&:after {
 								background-image: url('images/bars.svg');
 								background-position: right center;
@@ -1484,7 +1508,8 @@ $baseurl: '{{ site.github.url }}images';
 
 			h1 {
 				@include vendor('pointer-events', 'none');
-				opacity: 0;
+				opacity: 1;
+				color:#fff;
 			}
 		}
 	}
@@ -1501,6 +1526,8 @@ $baseurl: '{{ site.github.url }}images';
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+
+
 
 		h2 {
 			@include vendor('transform', 'scale(1)');
@@ -1549,7 +1576,7 @@ $baseurl: '{{ site.github.url }}images';
 			@include vendor('transform', 'translateY(0)');
 			border: none;
 			bottom: 0;
-			color: inherit;
+			color: #fff;
 			font-size: 0.8em;
 			height: 8.5em;
 			left: 50%;
@@ -1651,6 +1678,10 @@ $baseurl: '{{ site.github.url }}images';
 				p {
 					color: inherit;
 				}
+
+			h1 a{
+				color:#fff;
+			};
 			}
 
 			.actions {
@@ -1688,7 +1719,7 @@ $baseurl: '{{ site.github.url }}images';
 	#main {
 		> header {
 			@include padding(12em, 0);
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("/css/images/banner.jpg")'));
+			//@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("/css/images/banner.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
@@ -1698,13 +1729,15 @@ $baseurl: '{{ site.github.url }}images';
 			h2 {
 				font-size: 1.75em;
 				margin: 0 0 (_size(element-margin) * 0.25) 0;
+				color: #fff;
 			}
 
 			p {
-				color: inherit;
+				color: #fff;
 				letter-spacing: _size(letter-spacing-alt);
 				text-transform: uppercase;
 				top: 0;
+				font-weight:600;
 
 				a {
 					color: inherit;
@@ -1812,13 +1845,39 @@ $baseurl: '{{ site.github.url }}images';
 /* Landing */
 
 	body.landing {
+
+
 		#page-wrapper {
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.3))', 'url("/css/images/banner.jpg")'));
+			//@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.3))', 'url("/css/images/banner.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
 			background-size: cover;
 			padding-top: 0;
+
+			#background-video {
+				width: 100vw;
+				height: 100vh;
+				object-fit: cover;
+				position: fixed;
+				left: 0;
+				right: 0;
+				top: 0;
+				bottom: 0;
+				z-index: -1;
+			  }
+
+
+
+		}
+
+
+		.inner{
+			background: #fff;
+			padding: 2.5em;
+			width: 50%;
+			margin: auto;
+			opacity: 0.5;
 		}
 
 		#footer {
@@ -1834,7 +1893,7 @@ $baseurl: '{{ site.github.url }}images';
 
 			#banner,
 			.wrapper.style4 {
-				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("/css/images/banner.jpg")'));
+				//@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("/css/images/banner.jpg")'));
 				background-position: center center;
 				background-repeat: no-repeat;
 				background-size: cover;

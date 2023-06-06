@@ -14,7 +14,7 @@ permalink: /work/web/
 	
 	<h3>Frank Batten School of Leadership & Public Policy, University of Virginia</h3>
 
-Since March 2019 I served on committee meetings with internal stakeholders and vendors to help determine requirements, give feedback on design, help with process, search engine optimization and general guidance on development. I helped with the launch of the website and currently manage the training of web editors, content and design updates, and external vendors for further custom development.
+I am an assistant director of web design and development for the Batten School of Leadership & Public Policy at the University of Virginia. I am responsible for the design, development, and testing of the school's websites. I work with a team of web developers to create websites that are user-friendly, informative, and visually appealing. I also work with the school's marketing team to develop and implement web-based marketing campaigns. I am passionate about using web design and development to help organizations communicate their message effectively and reach their target audiences.
 
 Visit the website: <a href="http://batten.virginia.edu">Frank Batten School of Leadership and Public Policy, UVA</a>
 	
@@ -29,8 +29,7 @@ Visit the website: <a href="http://batten.virginia.edu">Frank Batten School of L
 	<h3>University of Virginia Library</h3>
 
 I led the use of Wordpress Multi-site to manage the main UVA Library website in addition to several smaller Library related websites and blogs. I led design and development of the following selection of sites:
-
-Visit the websites:
+<br />
 
 <ul><li><a href="https://library.virginia.edu">University of Virginia Library website</a></li>
 	<li><a href="https://small.library.virginia.edu">Small Special Collections Library website</a></li>
@@ -49,8 +48,7 @@ Visit the websites:
 
 I worked on a small team of developers to develop and maintain a large netork of websites for the College and Graduate School of Arts &amp; Sciences. Below is a selection of websites I maintained:
 
-
-Visit the websites:
+<br />
 
 <ul>
 <li><a href="https://as.virginia.edu">College and Graduate School of Arts &amp; Sciences, University of Virginia</a></li>
@@ -70,11 +68,11 @@ Visit the websites:
 
 <img src="{{ site.github.url }}/images/jackalandhyde.png" class="image fit" />
 
-<h3>Jackal and Hyde Music</h3>
+<h3>Scott Weiser Music</h3>
 
-This is a website I designed and coded for my husband's music.
 
-Visit the website: <a href="https://jackalandhydemusic.com">Jackal and Hyde Music</a>
+
+Visit the website: <a href="https://scottweisermusic.com">Scott Weiser Music</a>
 
 </div>
 

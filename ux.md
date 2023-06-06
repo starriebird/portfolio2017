@@ -15,11 +15,3 @@ I have extensive experience creating creative briefs, userflows, sitemaps, wiref
 
 
 <a href="https://xd.adobe.com/view/1b846b99-cf49-48fd-9949-729e158c5cbf-4ed7/">Interactive Wireframe for UVA Batten School Center prototype</a>
-
-College and Graduate School of Arts & Sciences, University of Virginia (Coming Soon)
-
-OpenGrounds, University of Virginia (Coming Soon)
-
-Department of French, University of Virginia  (Coming Soon)
-
-Department of Music, University of Virginia  (Coming Soon)
