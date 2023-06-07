@@ -1564,6 +1564,7 @@ $baseurl: '{{ site.github.url }}images';
 		p {
 			letter-spacing: _size(letter-spacing-alt);
 			text-transform: uppercase;
+			font-weight:800;
 
 			a {
 				color: inherit;
@@ -1873,11 +1874,11 @@ $baseurl: '{{ site.github.url }}images';
 
 
 		.inner{
-			background: #fff;
+			background: rgba(255,255,255,0.5);
 			padding: 2.5em;
 			width: 50%;
 			margin: auto;
-			opacity: 0.5;
+			opacity: 1.0;
 		}
 
 		#footer {
