@@ -1905,3 +1905,16 @@ $baseurl: '{{ site.github.url }}images';
 			}
 		}
 	}
+
+
+	@media screen and (max-width: 736px){
+
+
+	body.landing .inner {
+		width: 100%;
+	}
+
+
+}
+
+
