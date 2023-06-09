@@ -1329,7 +1329,7 @@ $baseurl: '{{ site.github.url }}images';
 		@include vendor('transform', 'translateX(20em)');
 		@include vendor('transition', 'transform #{_duration(menu)} ease');
 		-webkit-overflow-scrolling: touch;
-		background: _palette(accent1, bg);
+		background: _palette(accent1, menu);
 		color: _palette(accent1, fg-bold);
 		height: 100%;
 		max-width: 80%;
@@ -1340,6 +1340,7 @@ $baseurl: '{{ site.github.url }}images';
 		top: 0;
 		width: 20em;
 		z-index: _misc(z-index-base) + 2;
+
 
 		ul {
 			list-style: none;
@@ -1365,6 +1366,7 @@ $baseurl: '{{ site.github.url }}images';
 					outline: 0;
 					text-decoration: none;
 					text-transform: uppercase;
+					-webkit-tap-highlight-color: rgba(7, 162, 170, 0);
 
 					@include breakpoint(small) {
 						line-height: 3em;

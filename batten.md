@@ -26,12 +26,12 @@ I report to the Director of Technology & Information Systems and work with the D
 
 
 <div class="6u 6u(medium) 12u(small)">
-<a href="https://invis.io/V6D17IDRE#/248600168_Homepage-Mobile_Menu">Support Us page</a>
+<a href="https://www.batten.virginia.edu/support-batten">Support Us page</a>
 </div>
 
 
 <div class="6u 6u(medium) 12u(small)">
-<a href="https://invis.io/V6D17IDRE#/248600168_Homepage-Mobile_Menu">Migrated News</a>
+<a href="https://batten.virginia.edu/applied-policy-project">Applied Policy Project</a>
 </div>
 
 </div>
