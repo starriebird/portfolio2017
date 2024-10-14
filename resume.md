@@ -22,14 +22,39 @@ permalink: /resume/
 
 
 <h2> Work Experience</h2>
+
+<h3>Web Developer</h3>
+<h4>Custom Applications & Consulting Services, Information Technology Services, University of Virginia</h4>
+
+<p><i>September 2023 — Present</i></p>
+
+<p></p>
+
+
+Technologies used:
+<ul>
+<li>Drupal 7, 8 & 9</li>
+<li>Acquia Cloud Platform</li>
+<li>Visual Studio Code</li>
+<li>GIT</li>
+<li>Github>
+<li>Sass/CSS</li>
+<li>Drush</li>
+<li>Twig Templates</li>
+<li>Drupal 8 Theming</li>
+<li>HTML</li>
+<li>PHP</li>
+<li>JavaScript</li>
+<li>Adobe Creative Suite (Adobe Photoshop, Adobe XD, Adobe Illustrator)</li>
+<li>Figma</li>
+</ul>
+
 <h3>Assistant Director Web Design and Development</h3>
 <h4>Frank Batten School of Leadership and Public Policy, University of Virginia</h4>
 
-<p><i>March 2019 — Present</i></p>
+<p><i>March 2019 — August 2023</i></p>
 
-<p>At the Batten School, I report to the Director of Information Technology and School Systems on 
-<p>I report to the Director of Information Technology and play a critical role as technical developer & design lead with the Director of Communications and entire communications team. I manage multiple web projects create dynamic rich experience for visitors of our websites.  I partner with stakeholders throughout the School to identify goals, set measurable objectives, gather requirements and implement the vision into digital reality. I report to the Director of Information Technology and play
-a critical role as lead technical developer & designer for the Director of Communications. I manage multiple web projects and create dynamic, rich experiences for users of our websites. Migrated content from Drupal 7 using automated scripts to Drupal 8 and successfully upgraded Drupal 8 to 9 in Acquia Cloud.</p>
+<p>At the Batten School, I reported to the Director of Information Technology and play a critical role as technical developer & design lead with the Director of Communications and entire communications team. I managed multiple web projects create dynamic rich experience for visitors of our websites.  I partnered with stakeholders throughout the School to identify goals, set measurable objectives, gathered requirements and implement the vision into digital reality. Migrated content from Drupal 7 using automated scripts to Drupal 8 and successfully upgraded Drupal 8 to 9 in Acquia Cloud and Cloud Next.</p>
 
 
 Technologies used:
