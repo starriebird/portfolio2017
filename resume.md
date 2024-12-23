@@ -47,8 +47,8 @@ Technologies used:
 <li>JavaScript</li>
 <li>Adobe Creative Suite (Adobe Photoshop, Adobe XD, Adobe Illustrator)</li>
 <li>Figma</li>
-</ul>
 
+<br /><br />
 <h3>Assistant Director Web Design and Development</h3>
 <h4>Frank Batten School of Leadership and Public Policy, University of Virginia</h4>
 
