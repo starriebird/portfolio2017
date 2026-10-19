@@ -162,8 +162,6 @@ websites with HTML, CSS, JavaScript, and PHP. I practiced user experience design
 <p>edUi, C-Ville Mini Maker Faire, U.Va. Library, Jefferson-Madison Regional Library, Teaching with Technology Fair, U.Va. Library 2014-1015.</p>
 
 
-
-<h3>Education</h3>
 ### Education
 
 * **Master of Science in the Management of Information Technology (MSMIT)**  
