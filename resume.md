@@ -179,9 +179,10 @@ websites with HTML, CSS, JavaScript, and PHP. I practiced user experience design
 
 
 <h3>Education</h3>
-<h4>Master of Sciences in the Management of Information Technology<h4>
+<h4>Master of Science in the Management of Information Technology<h4>
 <h5>McIntire School of Commerce, University of Virginia</h5>
-
+<br />
+<br />
 
 <h4>Bachelor of Fine Arts - Multimedia and Web Design<h4>
 <h5>The Art Institute of Washington</h5>
