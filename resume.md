@@ -11,7 +11,7 @@ permalink: /resume/
 <h2>Key Skills</h2>
 
 <ul>
-<li>Drupal Development (7,8 & 9)</li>
+<li>Drupal Development (10, 11)</li>
 <li>Pantheon & Acquia Hosting</li>
 <li>Front End &amp; Back End Development</li>
 <li>UX/UI Design </li>
@@ -33,7 +33,7 @@ permalink: /resume/
 
 Technologies used:
 <ul>
-<li>Drupal 7, 8 & 9</li>
+<li>Drupal 9 & 10</li>
 <li>Acquia Cloud Platform</li>
 <li>Visual Studio Code</li>
 <li>GIT</li>
@@ -45,7 +45,7 @@ Technologies used:
 <li>HTML</li>
 <li>PHP</li>
 <li>JavaScript</li>
-<li>Adobe Creative Suite (Adobe Photoshop, Adobe XD, Adobe Illustrator)</li>
+<li>Adobe Creative Suite (Adobe Photoshop, Figma, Adobe Illustrator)</li>
 <li>Figma</li>
 
 <br /><br />
@@ -147,25 +147,6 @@ Technologies used:
 Sciences website, Campaign for the College fundraising website, and various A&S department
 websites with HTML, CSS, JavaScript, and PHP. I practiced user experience design processes, user testing, and user interface design. I also maintained a Wordpress blog for the Dean.</p>
 
-<h3>Entrepreneur &amp; Web Developer, Equinox Multimedia</h3>
-
-<p><i>September 2003 — March 2008</i></p>    
-
-<p>Consulted with clients, planned and managed web and graphics projects, designed and developed graphics materials, websites, Flash web applications, and other forms of interactive media. I built websites using HTML, CSS, JavaScript, Flash, and Wordpress.</p>
-
-<h3>OTHER EXPERIENCE</h3>
-
-<h4>Software Developer &amp; Graphic Artist, School of Education &amp; Human Development, University of Virginia</h4>
-
-<p>2002–2003</p>
-
-<h4>Flash Developer & Graphic Artist, Boxer Learning</h4>
-
-<p>1999–2001</p>
-
-<h4>Web Designer & Graphic Artist, Rosetta Stone</h4>
-
-<p>1998–1999</p>
 
 
 
@@ -198,6 +179,8 @@ websites with HTML, CSS, JavaScript, and PHP. I practiced user experience design
 
 
 <h3>Education</h3>
+<h4>Master of Sciences in the Management of Information Technology<h4>
+<h5>McIntire School of Commerce, University of Virginia</h5>
 
 
 <h4>Bachelor of Fine Arts - Multimedia and Web Design<h4>
