@@ -23,30 +23,15 @@ permalink: /resume/
 
 <h2> Work Experience</h2>
 
-<h3>Web Developer</h3>
-<h4>Custom Applications & Consulting Services, Information Technology Services, University of Virginia</h4>
+### Web Developer & Accessibility Liaison
+**Custom Applications & Consulting Services, Information Technology Services (ITS)**  
+*University of Virginia | September 2023 — Present*
 
-<p><i>September 2023 — Present</i></p>
-
-<p></p>
-
-
-Technologies used:
-<ul>
-<li>Drupal 9 & 10</li>
-<li>Acquia Cloud Platform</li>
-<li>Visual Studio Code</li>
-<li>GIT</li>
-<li>Github>
-<li>Sass/CSS</li>
-<li>Drush</li>
-<li>Twig Templates</li>
-<li>Drupal 8 Theming</li>
-<li>HTML</li>
-<li>PHP</li>
-<li>JavaScript</li>
-<li>Adobe Creative Suite (Adobe Photoshop, Figma, Adobe Illustrator)</li>
-<li>Figma</li>
+* **Enterprise Portfolio Architecture:** Manage, maintain, and support a multi-tenant codebase powering an institutional infrastructure of over 300 active University of Virginia websites across Acquia Cloud environments.
+* **Institutional Accessibility Leadership:** Serve as technical lead directing digital accessibility remediation across the 300+ site portfolio to satisfy Department of Justice mandates and WCAG 2.1/2.2 AA standards.
+* **Centralized Engineering Solutions:** Architected and deployed centralized remediation patches (custom Twig templates, CSS, and ES6 JavaScript) that systematically resolved critical accessibility violations across shared base themes.
+* **Governance & Training:** Authored technical compliance documentation and delivered presentations to senior administration and cross-functional developer teams to prevent recurring technical debt and institutional risk.
+* **Stakeholder Consultation:** Partner with university deans, directors, and departmental clients to translate institutional business requirements into secure, accessible, high-performance web applications.
 
 <br /><br />
 <h3>Assistant Director Web Design and Development</h3>
@@ -179,16 +164,12 @@ websites with HTML, CSS, JavaScript, and PHP. I practiced user experience design
 
 
 <h3>Education</h3>
-<h4>Master of Science in the Management of Information Technology<h4>
-<h5>McIntire School of Commerce, University of Virginia</h5>
-<br />
-<br />
+### Education
 
-<h4>Bachelor of Fine Arts - Multimedia and Web Design<h4>
-<h5>The Art Institute of Washington</h5>
-
-<br />
-<br />
-<h4>Associate of Specialized Technology - Multimedia</h4>
-<h5>The Art Institute of Philadelphia</h5>
+* **Master of Science in the Management of Information Technology (MSMIT)**  
+  McIntire School of Commerce, University of Virginia | August 2026
+* **Bachelor of Fine Arts (BFA) – Multimedia & Web Design**  
+  The Art Institute of Washington
+* **Associate in Specialized Technology (AST) – Multimedia**  
+  The Art Institute of Philadelphia
 
