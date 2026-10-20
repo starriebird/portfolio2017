@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Starrie Williamson
 email: starriew@gmail.com
-description: Enterprise Web Architect, Accessibility Strategist, and IT Leader.
+description: Enterprise Digital Strategist | IT Governance, Accessibility & Applied AI Leadership
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://equinoxmultimedia.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: starriebird
